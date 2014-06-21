@@ -4,6 +4,12 @@
 
 # Goals
 
-Testing[^1]
+Testing^[Inlines notes are easier to write, since
+you don't have to pick an identifier and move down to type the
+note.]
 
-[^1]: This is a test
+$$\begin{equation}
+  x = a_0 + \cfrac{1}{a_1
+          + \cfrac{1}{a_2
+          + \cfrac{1}{a_3 + \cfrac{1}{a_4} } } }
+\end{equation}$$
