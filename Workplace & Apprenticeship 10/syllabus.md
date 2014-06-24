@@ -6,6 +6,10 @@
 
 Day | Lesson
 -----|-----
-September 1|2.05
+September 1 |2.05
 pear|1.37
 orange|3.09
+
+
+
+# Grades
