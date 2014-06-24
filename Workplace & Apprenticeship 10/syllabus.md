@@ -25,7 +25,6 @@ Assignments | 10%
 
 >While attendance and interaction in class are not marked, I can guarantee you that showing up to class and being attentive will result in a higher grade on your mark, because you will be learning.
 
-
 ## Quiz
 
 Every Friday will be a quiz, summarizing what has been learned throughout the week. The quiz will be 30 minutes each week, and will happen at the later part of the class.
