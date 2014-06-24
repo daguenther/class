@@ -1,8 +1,14 @@
+% Workplace and Apprenticeship 10 Period 5
 % Syllabus
 % David Guenther
 % June 21, 2014
 
 # Goals
+
+* Learn to love math and use it in real life
+* Confidently pass the course
+
+# Outline
 
 Day | Lesson
 -----|-----
