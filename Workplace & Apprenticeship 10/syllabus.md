@@ -1,7 +1,6 @@
 % Workplace and Apprenticeship 10 Period 5
 % Syllabus
-% David Guenther
-% June 21, 2014
+% Mr. Guenther
 
 # Goals
 
@@ -12,10 +11,14 @@
 
 Day | Lesson
 -----|-----
+Week 1 | Equalities
+Week 2 | Spatial Reasoning
+Week 3 | Measuring Systems
+
+# Grades
+
+Day | Lesson
+-----|-----
 September 1 |2.05
 pear|1.37
 orange|3.09
-
-
-
-# Grades
