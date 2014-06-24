@@ -4,24 +4,8 @@
 
 # Goals
 
-Testing^[Inlines notes are easier to write, since
-you don't have to pick an identifier and move down to type the
-note.]
-
-Testing^[Inlines notes are easier to write, since
-you don't have to pick an identifier and move down to type the
-note.]
-
-Testing^[Inlines notes are easier to write, since
-you don't have to pick an identifier and move down to type the
-note.]
-
-Testing^[Inlines notes are easier to write, since
-you don't have to pick an identifier and move down to type the
-note.]
-
-$$
-  x = a_0 + \cfrac{1}{a_1
-          + \cfrac{1}{a_2
-          + \cfrac{1}{a_3 + \cfrac{1}{a_4} } } }
-$$
+Day | Lesson
+-----|-----
+September 1|2.05
+pear|1.37
+orange|3.09
