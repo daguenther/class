@@ -23,7 +23,7 @@ Quiz | 70%
 Project | 20%
 Assignments | 10%
 
->While attendance and interaction in class are not marked, I can guarantee you that showing up to class and being attentive will result in a higher grade on your mark, because you will be learning.
+While attendance and interaction in class are not marked, I can guarantee you that showing up to class and being attentive will result in a higher grade on your mark, because you will be learning.
 
 ## Quiz
 
