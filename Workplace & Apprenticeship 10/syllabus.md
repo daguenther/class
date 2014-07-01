@@ -36,10 +36,10 @@ Each question on the quiz will be worth 3 marks.
 ### Quiz Grade
 Mark | Translation
 -----|-----
-0 |"I didn't write anything related to the topic"
-1 |"I did something related to the topic, but wasn't able to solve it"
-2 |"I started out well, but wasn't able to get the right answer"
-3 |"Understands and applies all knowledge correctly"
+0 |Nothing
+1 |+ Right Equations
+2 |+ Right Steps
+3 |+ Right Answer
 
 Questions on the quizzes will be sorted according to content type. Similar questions will be asked multiple times in order for the student to show achievement. The best grade will be taken.
 
@@ -52,6 +52,8 @@ On my first quiz I got 1 out of 3 on the Pythagorean theorem, but did well on th
 Projects are meant to be real life applications for using math. Each project will be in the form of a question:
 
 **How many baseballs would fit in a baseball diamond?**
+
+**Juding from your current income and expenses, how long before you reach 1 million dollars?**
 
 It is then your task to find the answer. Initially I will give you a lot of direction, but as the semester continues you will need to provide your own direction in order to complete these projects.
 
