@@ -50,7 +50,9 @@ On my first quiz I got 1 out of 3 on the Pythagorean theorem, but did well on th
 
 As you may have noticed by now, there are not assignments in this class. The only thing you will be marked on is your projects and your quizzes. However, if your grade in this class will greatly increased if you practice with assignments. At times I will give out questions to practice with, and then review them on the board. You are not obligated to do this, but if you refuse to work on them, your grades in this class will suffer.
 
-Additionally, anyone who's grade is a **D** will have these assignments be mandatory. Failure to turn in an assignment will result in a -1% off your final grade. Once you manage to raise your grade above a **D** all your penalties will be cleared.
+Additionally, anyone who's grade is a **D** will have these assignments be mandatory. Failure to turn in a completed assignment will result in a -1% off your final grade. Once you manage to raise your grade above a **D** all your penalties will be cleared.
+
+If at the end of the semester I decide to review this policy in your favour, I reserve the right to do so.
 
 ## Projects
 
@@ -84,3 +86,11 @@ The reason being when you get into the workplace , there are deadlines, and you 
 That said, my purpose here is to prepare you for this task. I will provide a tentative deadline. Some companies actually do this to make sure the project is turned in on time. If you hand in your work ahead of the final deadline, at your request I can look over your project and recommend any changes before I actually grade it.
 
 I will not do this if you turn in the assignment on the due date.
+
+# Closing Remarks
+
+it is my commitment to you to help you as you discover more about math. I cannot help you if you are not engaged in class. I need your cooperation to make this work. I need your committment to work hard on your projects and quizzes.
+
+## Food
+
+Food is an essential part of your intellectual and physical growth, 
