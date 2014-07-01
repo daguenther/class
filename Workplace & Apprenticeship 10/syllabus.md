@@ -48,7 +48,9 @@ On my first quiz I got 1 out of 3 on the Pythagorean theorem, but did well on th
 
 ### Preparing for Quizzes
 
+As you may have noticed by now, there are not assignments in this class. The only thing you will be marked on is your projects and your quizzes. However, if your grade in this class will greatly increased if you practice with assignments. At times I will give out questions to practice with, and then review them on the board. You are not obligated to do this, but if you refuse to work on them, your grades in this class will suffer.
 
+Additionally, anyone who's grade is a **D** will have these assignments be mandatory. Failure to turn in an assignment will result in a
 
 ## Projects
 
@@ -72,3 +74,7 @@ Mark | Translation
 5 |+ Correct Solution with no errors
 6 |+ Adds presentation
 7 |+ Perfection (I can't find anything to fix)
+
+### Due Dates
+
+Projects will be due on the day I set for them. There is no 
