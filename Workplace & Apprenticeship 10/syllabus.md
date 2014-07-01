@@ -93,4 +93,42 @@ it is my commitment to you to help you as you discover more about math. I cannot
 
 ## Food
 
-Food is an essential part of your intellectual and physical growth, 
+Food is an essential part of your intellectual and physical growth, both of which are necessary for your spiritual growth. As such I have a recommended diet
+
+* Fish (Omega 3 for enhancing memory)
+* Eggs (vitamins A & B are good for memory)
+* Caffeine before class for building new memoires
+* Cherries for falling asleep
+* Bananas to calm and relax muscles
+* Almonds to promote sleep and muscle relaxation
+* Dark chocolate for stress relief
+* Avocados for the immune system
+* Garlic and Onions for the win (maybe ask your parents about this one :)
+
+## Sleep
+
+I recommend 8 hours a night. You need your brain functioning at full capacity as you study math.
+
+## Relaxation
+
+You brain needs to work hard at school. That is why I recommend that you take at least 1 hour a night doing something that relaxes you.
+
+Some things that relax me are as such:
+* video games
+* reading
+* TV show
+* discovering new technology
+* taking pictures
+* building with lego
+
+some things that I DON'T find relaxing:
+* Surfing facebook
+* doing homework
+
+## End
+
+This can be a great semester, but it will not be easy all the time. I need your cooperation to make this a fruitful semester.
+
+Sincerly,
+
+David Guenther
