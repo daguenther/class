@@ -50,7 +50,7 @@ On my first quiz I got 1 out of 3 on the Pythagorean theorem, but did well on th
 
 As you may have noticed by now, there are not assignments in this class. The only thing you will be marked on is your projects and your quizzes. However, if your grade in this class will greatly increased if you practice with assignments. At times I will give out questions to practice with, and then review them on the board. You are not obligated to do this, but if you refuse to work on them, your grades in this class will suffer.
 
-Additionally, anyone who's grade is a **D** will have these assignments be mandatory. Failure to turn in an assignment will result in a
+Additionally, anyone who's grade is a **D** will have these assignments be mandatory. Failure to turn in an assignment will result in a -1% off your final grade. Once you manage to raise your grade above a **D** all your penalties will be cleared.
 
 ## Projects
 
@@ -77,4 +77,10 @@ Mark | Translation
 
 ### Due Dates
 
-Projects will be due on the day I set for them. There is no 
+Projects will be due on the day I set for them. There is a grade of 0 given if the project is not turned in on this day.
+
+The reason being when you get into the workplace , there are deadlines, and you could lose your job if you fail to meet those guides.
+
+That said, my purpose here is to prepare you for this task. I will provide a tentative deadline. Some companies actually do this to make sure the project is turned in on time. If you hand in your work ahead of the final deadline, at your request I can look over your project and recommend any changes before I actually grade it.
+
+I will not do this if you turn in the assignment on the due date.
