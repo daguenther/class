@@ -19,9 +19,8 @@ Week 3 | Measuring Systems
 
 Type | Weight
 -----|-----
-Quiz | 50%
-Project | 30%
-Assignments | 20%
+Quizs | 70%
+Projects | 30%
 
 While attendance and interaction in class are not marked, I can guarantee you that showing up to class and being attentive will result in a higher grade on your mark, because you will be learning.
 
@@ -47,17 +46,22 @@ Questions on the quizzes will be sorted according to content type. Similar quest
 
 On my first quiz I got 1 out of 3 on the Pythagorean theorem, but did well on the other questions. The next quiz was the opposite, I did well on the Pythagorean theorem, but didn't do so well on the others. In this case, the highest grade will be taken from each section of the 2 quizzes, to give the student the highest possible grade.
 
-## Project
+### Preparing for Quizzes
 
-Projects are meant to be real life applications for using math. Each project will be in the form of a question:
 
-**How many baseballs would fit in a baseball diamond?**
 
-**Juding from your current income and expenses, how long before you reach 1 million dollars?**
+## Projects
+
+Projects are meant to be real life applications for using math. Each project will be in the form of a question
 
 It is then your task to find the answer. Initially I will give you a lot of direction, but as the semester continues you will need to provide your own direction in order to complete these projects.
 
-### Grades
+### Example
+How many baseballs would fit in a baseball diamond?
+
+Judging from your current income and expenses, how long before you reach 1 million dollars?
+
+### Grade
 
 Mark | Translation
 -----|-----
