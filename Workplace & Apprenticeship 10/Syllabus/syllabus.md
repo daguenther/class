@@ -19,8 +19,9 @@ Week 3 | Measuring Systems
 
 Type | Weight
 -----|-----
-Quizs | 70%
+Quizs | 60%
 Projects | 30%
+Final Exam | 10%
 
 While attendance and interaction in class are not marked, I can guarantee you that showing up to class and being attentive will result in a higher grade on your mark, because you will be learning.
 
