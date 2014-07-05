@@ -1,5 +1,28 @@
 % Unit 1
-% Currency Exchange
+% 1.1 Proportional Reasoning
 % David Guenther
 
-# Intro
+# Objective
+
+use ratios to solve new problems
+
+# Defintions
+
+**ratio**: two numbers that have the same units are compared to each other
+**proportion**: a fraction that describes the equality between two ratios or rates.
+
+# Start
+
+## Intro
+
+Ratios are an integral part of our world, and you probably already use them everyday!
+
+## Driving
+
+> Q: What does it mean to be going 100 km an hour? What does this represent.
+
+> Q:What does going 30 km an hour in a school zone mean?
+
+What we're really saying is this: for every hour (bottom) we have, we go 100 kilometers (top)
+
+$$\frac{100 kilometers}{1 hour}$$  
