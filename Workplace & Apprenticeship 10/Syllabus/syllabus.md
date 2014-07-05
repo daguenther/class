@@ -9,11 +9,16 @@
 
 # Outline
 
-Day | Lesson
+Unit | Description
 -----|-----
-Week 1 | Equalities
-Week 2 | Spatial Reasoning
-Week 3 | Measuring Systems
+Unit 1 | Currency
+Unit 2 | Income
+Unit 3 | Length, Area, Volume
+Unit 4 | Mass, Temperature, Volume
+Unit 5 | Angles & Parallel Lines
+Unit 6 | Similarity of Figures
+Unit 7 | Trigonometry of Right Triangles
+
 
 # Grades
 
